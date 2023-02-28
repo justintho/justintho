@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1>Hi, I'm Justin! <br/><a href="https://github.com/justintho">Software Developer</a></h1>
 
-<!--
-**justintho/justintho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development Projects:</h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Full Stack Web Service (Laravel, VueJS, Tailwind CSS, JS, & HTML)</b>
+  - [Housingly](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+- <b>User Interfaces and Data Structures</b>
+  - [Stock Management System (Java Application)](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Just In Case (Mobile Task Reminder App)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+- <b>Artificial Intelligence</b>
+  - [8-Puzzle Solver](https://github.com/joshmadakor1/EncrypterPOC)
+  - [N-Queens Ouzzle Solver](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Four-In-A-Line Game](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>Discord Bot Development</b>
+  - [Weather Bot](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)

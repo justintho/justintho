@@ -2,14 +2,20 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Full Stack Web Service (Laravel, VueJS, Tailwind CSS, JS, & HTML)</b>
+- <b>Full Stack Web Development</b>
   - [Housingly](https://github.com/justintho/housingly)
-- <b>User Interfaces and Data Structures</b>
-  - [Just In Case (Mobile Task Reminder App)](https://github.com/justintho/just_in_case_app)
-  - [Stock Management System (Java Application)](https://github.com/justintho/stock-management-system)
-- <b>Discord Bot Development (Python)</b>
-  - [Weather Bot](https://github.com/justintho)
+- <b>Mobile App Development</b>
+  - [Just In Case (Dart & Flutter)](https://github.com/justintho/just_in_case_app)
+- <b>Application Development</b>
+  - [Stock Management System (Java)](https://github.com/justintho/stock-management-system)
+- <b>Discord Bot Development</b>
+  - [Weather Bot (Python)](https://github.com/justintho)
+
+<h2>Other Projects:</h2>
+
 - <b>Artificial Intelligence (Java)</b>
   - [8-Puzzle Solver](https://github.com/justintho)
   - [N-Queens Puzzle Solver](https://github.com/justintho)
   - [Four-In-A-Line Game](https://github.com/justintho)
+- <b>Cryptography (Java)</b>
+  - [AES Encryption/Decryption](https://github.com/justintho)

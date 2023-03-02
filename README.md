@@ -7,9 +7,9 @@
 - <b>User Interfaces and Data Structures</b>
   - [Just In Case (Mobile Task Reminder App)](https://github.com/justintho/just_in_case_app)
   - [Stock Management System (Java Application)](https://github.com/justintho/stock-management-system)
-- <b>Discord Bot Development</b>
+- <b>Discord Bot Development (Python)</b>
   - [Weather Bot](https://github.com/justintho)
-- <b>Artificial Intelligence</b>
+- <b>Artificial Intelligence (Java)</b>
   - [8-Puzzle Solver](https://github.com/justintho)
   - [N-Queens Puzzle Solver](https://github.com/justintho)
   - [Four-In-A-Line Game](https://github.com/justintho)

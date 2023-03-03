@@ -14,7 +14,7 @@
 <h2>Other Projects:</h2>
 
 - <b>Artificial Intelligence (Java)</b>
-  - [8-Puzzle Solver](https://github.com/justintho)
+  - [8-Puzzle Solver](https://github.com/justintho/8-puzzle-solver)
   - [N-Queens Puzzle Solver](https://github.com/justintho)
   - [Four-In-A-Line Game](https://github.com/justintho)
 - <b>Cryptography (Java)</b>

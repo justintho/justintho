@@ -15,7 +15,7 @@
 
 - <b>Artificial Intelligence (Java)</b>
   - [8-Puzzle Solver](https://github.com/justintho/8-puzzle-solver)
-  - [N-Queens Puzzle Solver](https://github.com/justintho)
-  - [Four-In-A-Line Game](https://github.com/justintho)
+  - [N-Queens Puzzle Solver](https://github.com/justintho/n-queens-solver)
+  - [Four-In-A-Line Game](https://github.com/justintho/four-in-a-line-game)
 - <b>Cryptography (Java)</b>
-  - [AES Encryption/Decryption](https://github.com/justintho)
+  - [AES Encryption/Decryption](https://github.com/justintho/aes-converter)

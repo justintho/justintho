@@ -9,7 +9,7 @@
 - <b>Application Development</b>
   - [Stock Management System (Java)](https://github.com/justintho/stock-management-system)
 - <b>Discord Bot Development</b>
-  - [Weather Bot (Python)](https://github.com/justintho)
+  - [Weather Bot (Python)](https://github.com/justintho/weatherbot)
 
 <h2>Other Projects:</h2>
 

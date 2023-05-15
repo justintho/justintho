@@ -3,9 +3,10 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Full Stack Web Development</b>
-  - [Housingly](https://github.com/justintho/housingly)
+  - [Housingly (Laravel, Vue.js)](https://github.com/justintho/housingly)
 - <b>Mobile App Development</b>
   - [Just In Case (Dart & Flutter)](https://github.com/justintho/just_in_case_app)
+  - [World Clock (Dart & Flutter)](https://github.com/justintho/worldclock)
 - <b>Application Development</b>
   - [Stock Management System (Java)](https://github.com/justintho/stock-management-system)
 - <b>Discord Bot Development</b>
